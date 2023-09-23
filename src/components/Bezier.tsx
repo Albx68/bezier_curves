@@ -1,22 +1,50 @@
-import { useState } from "react"
+import { motion } from "framer-motion"
+import { useRef, useState } from "react"
 
 const initialHeight = 400
 const initialWidth = 400
 const handleRadius = 6
 const primaryColor = "#ff2222"
+
 const Bezier = () => {
     const [viewBoxDimensions, setViewBoxDimensions] = useState({ viewBoxWidth: initialWidth, viewBoxHeight: initialHeight })
     const [canvasDimensions, setCanvasDimensions] = useState({ canvasHeight: initialHeight, canvasWidth: initialWidth })
     const { viewBoxHeight, viewBoxWidth } = viewBoxDimensions
     const { canvasHeight, canvasWidth } = canvasDimensions
-    const [point1, setPoint1] = useState({ x: 80, y: 80 })
-    const [point2, setPoint2] = useState({ x: canvasWidth - 80, y: canvasHeight - 80 })
+    const point1Initial = { x: 80, y: 80 }
+    const point2Initial = { x: canvasWidth - 80, y: canvasHeight - 80 }
+
+    const [point1, setPoint1] = useState(point1Initial)
+    const [point2, setPoint2] = useState(point2Initial)
+
+
+    const handleDrag = (e: DragEvent, type: "point1" | "point2") => {
+        const payload = { x: e.x, y: e.y }
+        if (type === "point1") {
+            setPoint1(payload)
+        }
+        else {
+            setPoint2(payload)
+        }
+    }
     return (
         <>
             <svg viewBox={`0 0 ${viewBoxWidth} ${viewBoxHeight}`} height={canvasHeight} width={canvasWidth} style={{ backgroundColor: "#111", borderRadius: canvasWidth / 80 }}>
                 <path d={`M ${point1.x} ${point1.y} L ${point2.x} ${point2.y}`} stroke={primaryColor} />
-                <circle cx={point1.x} cy={point1.x} fill={primaryColor} r={handleRadius} />
-                <circle cx={point2.x} cy={point2.x} fill={primaryColor} r={handleRadius} />
+                <motion.circle drag
+                    onDrag={(e) => handleDrag(e as DragEvent, "point1")}
+                    cx={point1Initial.x}
+                    cy={point1Initial.y}
+                    fill={primaryColor}
+                    r={handleRadius}
+                    style={handlerStyle} />
+                <motion.circle drag
+                    cx={point2Initial.x}
+                    cy={point2Initial.y}
+                    onDrag={(e) => handleDrag(e as DragEvent, "point2")}
+                    fill={primaryColor}
+                    r={handleRadius}
+                    style={handlerStyle} />
             </svg>
         </>
     )
@@ -24,6 +52,7 @@ const Bezier = () => {
 
 export default Bezier
 
+const handlerStyle = { cursor: "g" }
 //formula
 //point1 and point2
 // distance = p2-p1
