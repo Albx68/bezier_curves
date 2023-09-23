@@ -27,13 +27,23 @@ const Bezier = () => {
             setPoint2(payload)
         }
     }
+    const midPoint = { x: point2.x, y: point1.y }
+    const midPointHandle = <motion.circle
+        cx={midPoint.x}
+        cy={midPoint.y}
+        fill={primaryColor}
+        r={handleRadius}
+        style={handlerStyle} />
+    const midPointText = <text style={{ userSelect: "none" }} x={midPoint.x - fontSizeSm} y={midPoint.y - fontSizeSm} fontSize={fontSizeSm} fill={primaryColor}>{midPoint.x},{midPoint.y}</text>
+
     return (
         <>
             <svg viewBox={`0 0 ${viewBoxWidth} ${viewBoxHeight}`} height={canvasHeight} width={canvasWidth} style={{ backgroundColor: "#111", borderRadius: canvasWidth / 80 }}>
                 <path d={`M ${point1.x} ${point1.y} L ${point2.x} ${point2.y}`} stroke={primaryColor} />
                 <text style={{ userSelect: "none" }} x={point1.x - fontSizeSm} y={point1.y - fontSizeSm} fontSize={fontSizeSm} fill={primaryColor}>{point1.x},{point1.y}</text>
                 <text style={{ userSelect: "none" }} x={point2.x - fontSizeSm} y={point2.y - fontSizeSm} fontSize={fontSizeSm} fill={primaryColor}>{point2.x},{point2.y}</text>
-
+                {midPointHandle}
+                {midPointText}
                 <motion.circle drag
                     onDrag={(e) => handleDrag(e as DragEvent, "point1")}
                     cx={point1Initial.x}
