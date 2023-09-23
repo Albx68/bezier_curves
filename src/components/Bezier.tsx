@@ -5,7 +5,7 @@ const initialHeight = 400
 const initialWidth = 400
 const handleRadius = 6
 const primaryColor = "#ff2222"
-
+const fontSizeSm = 10
 const Bezier = () => {
     const [viewBoxDimensions, setViewBoxDimensions] = useState({ viewBoxWidth: initialWidth, viewBoxHeight: initialHeight })
     const [canvasDimensions, setCanvasDimensions] = useState({ canvasHeight: initialHeight, canvasWidth: initialWidth })
@@ -19,7 +19,7 @@ const Bezier = () => {
 
 
     const handleDrag = (e: DragEvent, type: "point1" | "point2") => {
-        const payload = { x: e.x, y: e.y }
+        const payload = { x: Math.round(e.x), y: Math.round(e.y) }
         if (type === "point1") {
             setPoint1(payload)
         }
@@ -31,6 +31,9 @@ const Bezier = () => {
         <>
             <svg viewBox={`0 0 ${viewBoxWidth} ${viewBoxHeight}`} height={canvasHeight} width={canvasWidth} style={{ backgroundColor: "#111", borderRadius: canvasWidth / 80 }}>
                 <path d={`M ${point1.x} ${point1.y} L ${point2.x} ${point2.y}`} stroke={primaryColor} />
+                <text style={{ userSelect: "none" }} x={point1.x - fontSizeSm} y={point1.y - fontSizeSm} fontSize={fontSizeSm} fill={primaryColor}>{point1.x},{point1.y}</text>
+                <text style={{ userSelect: "none" }} x={point2.x - fontSizeSm} y={point2.y - fontSizeSm} fontSize={fontSizeSm} fill={primaryColor}>{point2.x},{point2.y}</text>
+
                 <motion.circle drag
                     onDrag={(e) => handleDrag(e as DragEvent, "point1")}
                     cx={point1Initial.x}
