@@ -1,5 +1,5 @@
 import { motion } from "framer-motion"
-import { useRef, useState } from "react"
+import { useState } from "react"
 
 const initialHeight = 400
 const initialWidth = 400
