@@ -1,5 +1,6 @@
 import { motion } from "framer-motion"
 import { useState } from "react"
+import { getData } from "../util"
 
 const initialHeight = 400
 const initialWidth = 400
@@ -13,10 +14,19 @@ const Bezier = () => {
     const { canvasHeight, canvasWidth } = canvasDimensions
     const point1Initial = { x: 80, y: 80 }
     const point2Initial = { x: canvasWidth - 80, y: canvasHeight - 80 }
-
+    console.log("data", getData())
     const [point1, setPoint1] = useState(point1Initial)
     const [point2, setPoint2] = useState(point2Initial)
 
+    const handleOnMouseDown = (e: MouseEvent, type: "point1" | "point2") => {
+        const payload = { x: Math.round(e.clientX), y: Math.round(e.clientY) }
+        if (type === "point1") {
+            setPoint1(payload)
+        }
+        else {
+            setPoint2(payload)
+        }
+    }
 
     const handleDrag = (e: DragEvent, type: "point1" | "point2") => {
         const payload = { x: Math.round(e.x), y: Math.round(e.y) }
@@ -44,10 +54,12 @@ const Bezier = () => {
                 <text style={{ userSelect: "none" }} x={point2.x - fontSizeSm} y={point2.y - fontSizeSm} fontSize={fontSizeSm} fill={primaryColor}>{point2.x},{point2.y}</text>
                 {midPointHandle}
                 {midPointText}
-                <motion.circle drag
-                    onDrag={(e) => handleDrag(e as DragEvent, "point1")}
-                    cx={point1Initial.x}
-                    cy={point1Initial.y}
+                <motion.circle
+                    onMouseMove={(e) => handleOnMouseDown(e as MouseEvent<SVGCircleElement, MouseEvent>, "point1")}
+                    onMouseDown={(e) => handleOnMouseDown(e as MouseEvent<SVGCircleElement, MouseEvent>, "point1")}
+                    // onDrag={(e) => handleDrag(e as DragEvent, "point1")}
+                    cx={point1.x}
+                    cy={point1.y}
                     fill={primaryColor}
                     r={handleRadius}
                     style={handlerStyle} />

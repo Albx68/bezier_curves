@@ -1,0 +1,1881 @@
+{
+    "data": [
+        {
+            "campaign_id": "23852353462810435",
+            "adset_id": "23852353489800435",
+            "adset_name": "Diabetes- Lead Gen 1\u0025 Customers List Upload Audience - All Genders",
+            "campaign_name": "Diabetes - Lead Gen  - LAL 1\u0025 - 50\u0025",
+            "clicks": "130",
+            "reach": "12101",
+            "spend": "4753.73",
+            "cost_per_action_type": [
+                {
+                    "action_type": "omni_complete_registration",
+                    "value": "4753.73"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "339.552143"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "2376.865"
+                },
+                {
+                    "action_type": "complete_registration",
+                    "value": "4753.73"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "2376.865"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "339.552143"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "12.744584"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "12.744584"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "2376.865"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "73.134308"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "950.746"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "15.898763"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "2376.865"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "339.552143"
+                }
+            ],
+            "cpm": "286.974344",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "48.017475",
+            "social_spend": "15.85",
+            "impressions": "16565",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23851676254880435",
+            "adset_id": "23852402444750435",
+            "adset_name": "Diabetes - Lead Gen - Retarget- Men- India - Who Did not Submit Lead Form - 2499",
+            "campaign_name": "Diabetes - Lead Gen  - Retarget - 2499",
+            "clicks": "178",
+            "reach": "10188",
+            "spend": "4687.39",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.total_messaging_connection",
+                    "value": "4687.39"
+                },
+                {
+                    "action_type": "omni_purchase",
+                    "value": "4687.39"
+                },
+                {
+                    "action_type": "omni_complete_registration",
+                    "value": "1171.8475"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "520.821111"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "669.627143"
+                },
+                {
+                    "action_type": "complete_registration",
+                    "value": "1171.8475"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "669.627143"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "520.821111"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "5.302477"
+                },
+                {
+                    "action_type": "purchase",
+                    "value": "4687.39"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "5.302477"
+                },
+                {
+                    "action_type": "onsite_web_app_purchase",
+                    "value": "4687.39"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "669.627143"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "42.228739"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "2343.695"
+                },
+                {
+                    "action_type": "onsite_web_purchase",
+                    "value": "4687.39"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "6.119308"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "669.627143"
+                },
+                {
+                    "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                    "value": "4687.39"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "520.821111"
+                }
+            ],
+            "cpm": "307.551342",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "29.855987",
+            "social_spend": "11.35",
+            "impressions": "15241",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23851676287180435",
+            "adset_id": "23852403679940435",
+            "adset_name": "Diabetes - Lead Gen - Expensive Taste - 25-55 (India) - 2499 - Men",
+            "campaign_name": "Diabetes - Lead Gen  - Interest Based - 2499",
+            "clicks": "17",
+            "reach": "2782",
+            "spend": "564.24",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "564.24"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "564.24"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "6.411818"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "6.411818"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "70.53"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "7.142278"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "564.24"
+                }
+            ],
+            "cpm": "182.306947",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "37.616",
+            "social_spend": "1.62",
+            "impressions": "3095",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23852427422000435",
+            "adset_id": "23852427810380435",
+            "adset_name": "Diabetes - Lead Gen - LAL 1\u0025  Customers and Leads - Men - 2499",
+            "campaign_name": "Diabetes - Lead Gen - LAL",
+            "clicks": "77",
+            "reach": "6451",
+            "spend": "3303",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "825.75"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "825.75"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "63.519231"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "63.519231"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "67.408163"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "825.75"
+                }
+            ],
+            "cpm": "372.588832",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "47.869565",
+            "social_spend": "38.08",
+            "impressions": "8865",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23851842419270435",
+            "adset_id": "23852429298820435",
+            "adset_name": "Fitness - Lead Gen | Sports | 23-45 - 2499 - All Genders(MCQ)",
+            "campaign_name": "Fitness - Lead Gen  - Interest Based",
+            "clicks": "239",
+            "reach": "14503",
+            "spend": "6763.45",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.post_save",
+                    "value": "6763.45"
+                },
+                {
+                    "action_type": "omni_purchase",
+                    "value": "3381.725"
+                },
+                {
+                    "action_type": "omni_complete_registration",
+                    "value": "1352.69"
+                },
+                {
+                    "action_type": "onsite_conversion.other",
+                    "value": "6763.45"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "260.132692"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "614.859091"
+                },
+                {
+                    "action_type": "complete_registration",
+                    "value": "1352.69"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "614.859091"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "260.132692"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "36.362634"
+                },
+                {
+                    "action_type": "purchase",
+                    "value": "3381.725"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "36.362634"
+                },
+                {
+                    "action_type": "onsite_web_app_purchase",
+                    "value": "3381.725"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "614.859091"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "55.438115"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "1352.69"
+                },
+                {
+                    "action_type": "onsite_web_purchase",
+                    "value": "3381.725"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "132.616667"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "614.859091"
+                },
+                {
+                    "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                    "value": "3381.725"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "260.132692"
+                }
+            ],
+            "cpm": "310.534894",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "35.410733",
+            "social_spend": "29.43",
+            "impressions": "21780",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23852355219110435",
+            "adset_id": "23852429920660435",
+            "adset_name": "Fitness - Lead Gen - LAL 1\u0025 Comp. Data  - 2499 (MCQ)- All Genders",
+            "campaign_name": "Fitness - Lead Gen - LAL",
+            "clicks": "109",
+            "reach": "6444",
+            "spend": "3284.85",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.post_save",
+                    "value": "3284.85"
+                },
+                {
+                    "action_type": "onsite_conversion.total_messaging_connection",
+                    "value": "3284.85"
+                },
+                {
+                    "action_type": "onsite_conversion.other",
+                    "value": "3284.85"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "821.2125"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "1642.425"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "1642.425"
+                },
+                {
+                    "action_type": "onsite_conversion.messaging_first_reply",
+                    "value": "3284.85"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "821.2125"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "53.85"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "53.85"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "1642.425"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "65.697"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "1642.425"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "821.2125"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "1642.425"
+                },
+                {
+                    "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                    "value": "1642.425"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "821.2125"
+                }
+            ],
+            "cpm": "345.228586",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "34.945213",
+            "social_spend": "16.27",
+            "impressions": "9515",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23852427422000435",
+            "adset_id": "23852443750950435",
+            "adset_name": "Diabetes - Lead Gen - LAL 2\u0025 All",
+            "campaign_name": "Diabetes - Lead Gen - LAL",
+            "clicks": "318",
+            "reach": "20306",
+            "spend": "8291.3",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.post_save",
+                    "value": "8291.3"
+                },
+                {
+                    "action_type": "omni_complete_registration",
+                    "value": "4145.65"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "251.251515"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "2763.766667"
+                },
+                {
+                    "action_type": "complete_registration",
+                    "value": "4145.65"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "2763.766667"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "251.251515"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "40.445366"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "40.445366"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "2763.766667"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "44.10266"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "4145.65"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "2763.766667"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "251.251515"
+                }
+            ],
+            "cpm": "239.190515",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "32.771937",
+            "social_spend": "40.81",
+            "impressions": "34664",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23851676254880435",
+            "adset_id": "23852912036650435",
+            "adset_name": "Diabetes - Lead Gen - Retarget Video Viewers 75\u0025 & 50\u0025",
+            "campaign_name": "Diabetes - Lead Gen  - Retarget - 2499",
+            "clicks": "209",
+            "reach": "8242",
+            "spend": "5414.51",
+            "cost_per_action_type": [
+                {
+                    "action_type": "omni_purchase",
+                    "value": "1804.836667"
+                },
+                {
+                    "action_type": "omni_complete_registration",
+                    "value": "1804.836667"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "318.500588"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "1353.6275"
+                },
+                {
+                    "action_type": "complete_registration",
+                    "value": "1804.836667"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "1353.6275"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "318.500588"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "4.243346"
+                },
+                {
+                    "action_type": "purchase",
+                    "value": "1804.836667"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "4.243346"
+                },
+                {
+                    "action_type": "onsite_web_app_purchase",
+                    "value": "1804.836667"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "1353.6275"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "42.300859"
+                },
+                {
+                    "action_type": "onsite_web_purchase",
+                    "value": "1804.836667"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "4.745408"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "1353.6275"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "318.500588"
+                }
+            ],
+            "cpm": "299.028552",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "31.663801",
+            "social_spend": "30.84",
+            "impressions": "18107",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23851842419270435",
+            "adset_id": "23854133258950435",
+            "adset_name": "Fitness - Lead Gen |Fitness and health |25-55| - 2499 - (MCQ)",
+            "campaign_name": "Fitness - Lead Gen  - Interest Based",
+            "clicks": "150",
+            "reach": "12904",
+            "spend": "5759.62",
+            "cost_per_action_type": [
+                {
+                    "action_type": "omni_purchase",
+                    "value": "2879.81"
+                },
+                {
+                    "action_type": "omni_complete_registration",
+                    "value": "5759.62"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "359.97625"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "575.962"
+                },
+                {
+                    "action_type": "complete_registration",
+                    "value": "5759.62"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "575.962"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "359.97625"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "43.966565"
+                },
+                {
+                    "action_type": "purchase",
+                    "value": "2879.81"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "43.966565"
+                },
+                {
+                    "action_type": "onsite_web_app_purchase",
+                    "value": "2879.81"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "575.962"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "74.80026"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "1151.924"
+                },
+                {
+                    "action_type": "onsite_web_purchase",
+                    "value": "2879.81"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "125.20913"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "575.962"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "359.97625"
+                }
+            ],
+            "cpm": "320.103374",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "48.810339",
+            "social_spend": "31.39",
+            "impressions": "17993",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23852427422000435",
+            "adset_id": "23854217982700435",
+            "adset_name": "Diabetes - Lead Gen - LAL 1\u0025  Competitor data - Men - Static Ads",
+            "campaign_name": "Diabetes - Lead Gen - LAL",
+            "clicks": "66",
+            "reach": "6080",
+            "spend": "2835.32",
+            "cost_per_action_type": [
+                {
+                    "action_type": "omni_purchase",
+                    "value": "1417.66"
+                },
+                {
+                    "action_type": "omni_complete_registration",
+                    "value": "2835.32"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "945.106667"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "1417.66"
+                },
+                {
+                    "action_type": "complete_registration",
+                    "value": "2835.32"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "1417.66"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "945.106667"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "12.435614"
+                },
+                {
+                    "action_type": "purchase",
+                    "value": "1417.66"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "12.435614"
+                },
+                {
+                    "action_type": "onsite_web_app_purchase",
+                    "value": "1417.66"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "1417.66"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "74.613684"
+                },
+                {
+                    "action_type": "onsite_web_purchase",
+                    "value": "1417.66"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "15.162139"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "1417.66"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "945.106667"
+                }
+            ],
+            "cpm": "361.00331",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "48.056271",
+            "social_spend": "10.13",
+            "impressions": "7854",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23852427422000435",
+            "adset_id": "23854218232020435",
+            "adset_name": "Diabetes - Lead Gen - LAL 1\u0025  Video Viewers 50\u0025 -All Gender - Static Ads",
+            "campaign_name": "Diabetes - Lead Gen - LAL",
+            "clicks": "22",
+            "reach": "3690",
+            "spend": "895.29",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "895.29"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "895.29"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "4.865707"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "4.865707"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "44.7645"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "5.492577"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "895.29"
+                }
+            ],
+            "cpm": "208.935823",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "42.632857",
+            "social_spend": "3.46",
+            "impressions": "4285",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23854589241270435",
+            "adset_id": "23854589241410435",
+            "adset_name": "CGM -LEAD GEN - LAL 1\u0025 All",
+            "campaign_name": "Bulk CGM- Lead Gen- LAL",
+            "clicks": "447",
+            "reach": "30531",
+            "spend": "17550.11",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.post_save",
+                    "value": "8775.055"
+                },
+                {
+                    "action_type": "omni_purchase",
+                    "value": "2925.018333"
+                },
+                {
+                    "action_type": "omni_complete_registration",
+                    "value": "2507.158571"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "566.132581"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "5850.036667"
+                },
+                {
+                    "action_type": "complete_registration",
+                    "value": "2507.158571"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "5850.036667"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "566.132581"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "51.923402"
+                },
+                {
+                    "action_type": "purchase",
+                    "value": "2925.018333"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "51.923402"
+                },
+                {
+                    "action_type": "onsite_web_app_purchase",
+                    "value": "2925.018333"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "5850.036667"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "65.977857"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "1350.008462"
+                },
+                {
+                    "action_type": "onsite_web_purchase",
+                    "value": "2925.018333"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "5850.036667"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "566.132581"
+                }
+            ],
+            "cpm": "378.218827",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "45.115964",
+            "social_spend": "41.09",
+            "impressions": "46402",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23854589241270435",
+            "adset_id": "23854868899210435",
+            "adset_name": "CGM -LEAD GEN - LAL 2\u0025 Customer List - Audience CGM Offer | 35-49| Men",
+            "campaign_name": "Bulk CGM- Lead Gen- LAL",
+            "clicks": "73",
+            "reach": "5152",
+            "spend": "2883.93",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.post_save",
+                    "value": "2883.93"
+                },
+                {
+                    "action_type": "omni_purchase",
+                    "value": "1441.965"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "576.786"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "2883.93"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "2883.93"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "576.786"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "53.406111"
+                },
+                {
+                    "action_type": "purchase",
+                    "value": "1441.965"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "53.406111"
+                },
+                {
+                    "action_type": "onsite_web_app_purchase",
+                    "value": "1441.965"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "2883.93"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "70.339756"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "961.31"
+                },
+                {
+                    "action_type": "onsite_web_purchase",
+                    "value": "1441.965"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "2883.93"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "576.786"
+                }
+            ],
+            "cpm": "446.290622",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "45.776667",
+            "social_spend": "14.05",
+            "impressions": "6462",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23854222782620435",
+            "adset_id": "23855476832280435",
+            "adset_name": "Smart Ring - Lead Gen - LAL 1\u0025 All",
+            "campaign_name": "Smart Ring- Lead Gen-LAL",
+            "clicks": "629",
+            "reach": "28411",
+            "spend": "11447.21",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.post_save",
+                    "value": "545.105238"
+                },
+                {
+                    "action_type": "onsite_conversion.other",
+                    "value": "11447.21"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "248.852391"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "763.147333"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "763.147333"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "248.852391"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "6.423799"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "6.423799"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "763.147333"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "27.717216"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "497.704783"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "9.1651"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "763.147333"
+                },
+                {
+                    "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                    "value": "11447.21"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "248.852391"
+                }
+            ],
+            "cpm": "189.592401",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "21.971612",
+            "social_spend": "8.73",
+            "impressions": "60378",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23855903254910435",
+            "adset_id": "23855903255100435",
+            "adset_name": "Bulk CGM - Lead Gen - Retarget All",
+            "campaign_name": "Bulk CGM - Lead Gen - Retarget",
+            "clicks": "480",
+            "reach": "19010",
+            "spend": "12337.51",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.post_save",
+                    "value": "12337.51"
+                },
+                {
+                    "action_type": "omni_purchase",
+                    "value": "6168.755"
+                },
+                {
+                    "action_type": "omni_complete_registration",
+                    "value": "1370.834444"
+                },
+                {
+                    "action_type": "offsite_conversion.fb_pixel_custom",
+                    "value": "4112.503333"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "220.312679"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "2056.251667"
+                },
+                {
+                    "action_type": "complete_registration",
+                    "value": "1370.834444"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "2056.251667"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "220.312679"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "35.250029"
+                },
+                {
+                    "action_type": "purchase",
+                    "value": "6168.755"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "35.250029"
+                },
+                {
+                    "action_type": "onsite_web_app_purchase",
+                    "value": "6168.755"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "2056.251667"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "43.90573"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "881.250714"
+                },
+                {
+                    "action_type": "onsite_web_purchase",
+                    "value": "6168.755"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "2056.251667"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "220.312679"
+                }
+            ],
+            "cpm": "389.835377",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "34.270861",
+            "conversions": [
+                {
+                    "action_type": "offsite_conversion.fb_pixel_custom.Book Free Consultation",
+                    "value": "3"
+                }
+            ],
+            "social_spend": "58.65",
+            "impressions": "31648",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23855903254910435",
+            "adset_id": "23855904390330435",
+            "adset_name": "Bulk CGM - Lead Gen - FB IG",
+            "campaign_name": "Bulk CGM - Lead Gen - Retarget",
+            "clicks": "12",
+            "reach": "991",
+            "spend": "636.51",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "318.255"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "318.255"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "63.651"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "63.651"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "212.17"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "636.51"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "318.255"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "318.255"
+                }
+            ],
+            "cpm": "553.968668",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "70.723333",
+            "social_spend": "2.03",
+            "impressions": "1149",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23854589241270435",
+            "adset_id": "23856086756390435",
+            "adset_name": "CGM- Lead Gen- LAL-Fitness- 26-45-Metro cities",
+            "campaign_name": "Bulk CGM- Lead Gen- LAL",
+            "clicks": "126",
+            "reach": "13961",
+            "spend": "5720.1",
+            "cost_per_action_type": [
+                {
+                    "action_type": "omni_purchase",
+                    "value": "2860.05"
+                },
+                {
+                    "action_type": "omni_complete_registration",
+                    "value": "1906.7"
+                },
+                {
+                    "action_type": "offsite_conversion.fb_pixel_custom",
+                    "value": "1906.7"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "336.476471"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "635.566667"
+                },
+                {
+                    "action_type": "complete_registration",
+                    "value": "1906.7"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "635.566667"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "336.476471"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "65.001136"
+                },
+                {
+                    "action_type": "purchase",
+                    "value": "2860.05"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "65.001136"
+                },
+                {
+                    "action_type": "onsite_web_app_purchase",
+                    "value": "2860.05"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "635.566667"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "96.950847"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "715.0125"
+                },
+                {
+                    "action_type": "onsite_web_purchase",
+                    "value": "2860.05"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "440.007692"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "635.566667"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "336.476471"
+                }
+            ],
+            "cpm": "290.507872",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "58.970103",
+            "conversions": [
+                {
+                    "action_type": "offsite_conversion.fb_pixel_custom.Book Free Consultation",
+                    "value": "3"
+                }
+            ],
+            "social_spend": "9.1",
+            "impressions": "19690",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23854589241270435",
+            "adset_id": "23856087662800435",
+            "adset_name": "CGM- Lead Gen- LAL-Diabetes- Bulk Patron",
+            "campaign_name": "Bulk CGM- Lead Gen- LAL",
+            "clicks": "14",
+            "reach": "938",
+            "spend": "942.87",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "942.87"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "942.87"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "134.695714"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "134.695714"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "235.7175"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "942.87"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "942.87"
+                }
+            ],
+            "cpm": "891.181474",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "72.528462",
+            "social_spend": "1.63",
+            "impressions": "1058",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23854589241270435",
+            "adset_id": "23856097301120435",
+            "adset_name": "CGM- Lead Gen- LAL-Diabetes- 2\u0025 LAL- Bulk Patron - Form2",
+            "campaign_name": "Bulk CGM- Lead Gen- LAL",
+            "clicks": "32",
+            "reach": "2639",
+            "spend": "640.73",
+            "cost_per_action_type": [
+                {
+                    "action_type": "omni_purchase",
+                    "value": "320.365"
+                },
+                {
+                    "action_type": "omni_complete_registration",
+                    "value": "640.73"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "320.365"
+                },
+                {
+                    "action_type": "complete_registration",
+                    "value": "640.73"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "320.365"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "30.510952"
+                },
+                {
+                    "action_type": "purchase",
+                    "value": "320.365"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "30.510952"
+                },
+                {
+                    "action_type": "onsite_web_app_purchase",
+                    "value": "320.365"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "42.715333"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "640.73"
+                },
+                {
+                    "action_type": "onsite_web_purchase",
+                    "value": "320.365"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "128.146"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "320.365"
+                }
+            ],
+            "cpm": "234.099379",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "23.730741",
+            "social_spend": "0.69",
+            "impressions": "2737",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23851676287180435",
+            "adset_id": "23856232524760435",
+            "adset_name": "Diabetes - Lead Gen  |Technophiles,Gadget Geeks| Men |25- 55",
+            "campaign_name": "Diabetes - Lead Gen  - Interest Based - 2499",
+            "clicks": "317",
+            "reach": "22511",
+            "spend": "9590",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.post_save",
+                    "value": "9590"
+                },
+                {
+                    "action_type": "omni_purchase",
+                    "value": "2397.5"
+                },
+                {
+                    "action_type": "omni_complete_registration",
+                    "value": "1598.333333"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "274"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "871.818182"
+                },
+                {
+                    "action_type": "complete_registration",
+                    "value": "1598.333333"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "871.818182"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "274"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "15.568182"
+                },
+                {
+                    "action_type": "purchase",
+                    "value": "2397.5"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "15.568182"
+                },
+                {
+                    "action_type": "onsite_web_app_purchase",
+                    "value": "2397.5"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "871.818182"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "52.119565"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "2397.5"
+                },
+                {
+                    "action_type": "onsite_web_purchase",
+                    "value": "2397.5"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "23.447433"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "871.818182"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "274"
+                }
+            ],
+            "cpm": "278.479542",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "37.315175",
+            "social_spend": "29.74",
+            "impressions": "34437",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23853684262850435",
+            "adset_id": "23856277173990435",
+            "adset_name": "Smart Ring - Lead Gen - High Paying Job| Tier 1 cities| Male -  2 MCQs",
+            "campaign_name": "Smart Ring- Lead Gen- Interest Based",
+            "clicks": "1812",
+            "reach": "112222",
+            "spend": "14675.75",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.post_save",
+                    "value": "293.515"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "101.914931"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "978.383333"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "978.383333"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "101.914931"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "1.585539"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "1.585539"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "978.383333"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "11.537539"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "143.879902"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "1.952341"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "978.383333"
+                },
+                {
+                    "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                    "value": "14675.75"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "101.914931"
+                }
+            ],
+            "cpm": "87.540114",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "9.642411",
+            "social_spend": "10.27",
+            "impressions": "167646",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23853684262850435",
+            "adset_id": "23856277174040435",
+            "adset_name": "Smart Ring - Lead Gen | Frequent Intenational travellers|",
+            "campaign_name": "Smart Ring- Lead Gen- Interest Based",
+            "clicks": "462",
+            "reach": "31692",
+            "spend": "6837.01",
+            "cost_per_action_type": [
+                {
+                    "action_type": "onsite_conversion.post_save",
+                    "value": "976.715714"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "325.571905"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "325.571905"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "16.554504"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "16.554504"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "21.704794"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "569.750833"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "621.546364"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "325.571905"
+                }
+            ],
+            "cpm": "101.347593",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "18.528482",
+            "social_spend": "11.36",
+            "impressions": "67461",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23852355219110435",
+            "adset_id": "23856418129170435",
+            "adset_name": "Fitness - Lead Gen - LAL 1\u0025 Patron Data",
+            "campaign_name": "Fitness - Lead Gen - LAL",
+            "clicks": "94",
+            "reach": "6274",
+            "spend": "3355.1",
+            "cost_per_action_type": [
+                {
+                    "action_type": "omni_purchase",
+                    "value": "1677.55"
+                },
+                {
+                    "action_type": "omni_complete_registration",
+                    "value": "1677.55"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "335.51"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "1118.366667"
+                },
+                {
+                    "action_type": "complete_registration",
+                    "value": "1677.55"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "1118.366667"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "335.51"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "55.918333"
+                },
+                {
+                    "action_type": "purchase",
+                    "value": "1677.55"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "55.918333"
+                },
+                {
+                    "action_type": "onsite_web_app_purchase",
+                    "value": "1677.55"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "1118.366667"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "68.471429"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "3355.1"
+                },
+                {
+                    "action_type": "onsite_web_purchase",
+                    "value": "1677.55"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "559.183333"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "1118.366667"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "335.51"
+                }
+            ],
+            "cpm": "359.873431",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "45.960274",
+            "social_spend": "10.94",
+            "impressions": "9323",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23851842419270435",
+            "adset_id": "23856418536990435",
+            "adset_name": "Fitness| Working Professionals |25-45| Men",
+            "campaign_name": "Fitness - Lead Gen  - Interest Based",
+            "clicks": "6",
+            "reach": "681",
+            "spend": "405.12",
+            "cost_per_action_type": [
+                {
+                    "action_type": "post_engagement",
+                    "value": "135.04"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "135.04"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "202.56"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "405.12"
+                }
+            ],
+            "cpm": "425.546218",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "81.024",
+            "social_spend": "0.59",
+            "impressions": "952",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        },
+        {
+            "campaign_id": "23851676254880435",
+            "adset_id": "23856433681470435",
+            "adset_name": "Diabetes - Lead Gen - Retarget- Store Visitors |Men | 25- 60|",
+            "campaign_name": "Diabetes - Lead Gen  - Retarget - 2499",
+            "clicks": "298",
+            "reach": "12314",
+            "spend": "7936.65",
+            "cost_per_action_type": [
+                {
+                    "action_type": "omni_complete_registration",
+                    "value": "1587.33"
+                },
+                {
+                    "action_type": "onsite_conversion.lead_grouped",
+                    "value": "377.935714"
+                },
+                {
+                    "action_type": "omni_add_to_cart",
+                    "value": "1984.1625"
+                },
+                {
+                    "action_type": "complete_registration",
+                    "value": "1587.33"
+                },
+                {
+                    "action_type": "onsite_web_add_to_cart",
+                    "value": "1984.1625"
+                },
+                {
+                    "action_type": "lead",
+                    "value": "377.935714"
+                },
+                {
+                    "action_type": "post_engagement",
+                    "value": "4.543017"
+                },
+                {
+                    "action_type": "page_engagement",
+                    "value": "4.543017"
+                },
+                {
+                    "action_type": "onsite_web_app_add_to_cart",
+                    "value": "1984.1625"
+                },
+                {
+                    "action_type": "link_click",
+                    "value": "47.241964"
+                },
+                {
+                    "action_type": "landing_page_view",
+                    "value": "7936.65"
+                },
+                {
+                    "action_type": "video_view",
+                    "value": "5.058413"
+                },
+                {
+                    "action_type": "add_to_cart",
+                    "value": "1984.1625"
+                },
+                {
+                    "action_type": "leadgen_grouped",
+                    "value": "377.935714"
+                }
+            ],
+            "cpm": "392.26264",
+            "quality_ranking": "UNKNOWN",
+            "cost_per_unique_click": "33.069375",
+            "social_spend": "65.61",
+            "impressions": "20233",
+            "date_start": "2023-09-01",
+            "date_stop": "2023-09-28"
+        }
+    ],
+    "paging": {
+        "cursors": {
+            "before": "MAZDZD",
+            "after": "MjQZD"
+        },
+        "next": "https://graph.facebook.com/v18.0/act_291945039495212/insights?date_preset=this_month&level=adset&fields=campaign_id,adset_id,ad_name,adset_name,campaign_name,clicks,reach,dda_results,spend,cost_per_action_type,cpm,quality_ranking,cost_per_unique_click,conversions,social_spend,impressions&access_token=EAA4H4CPMvOUBO1ZBWy4tGlGgCuj63utWMxzKjhtXy3KZC2jvxlhlYhqS0UikyzeqxfERDxZBCFOwoy8WPZBy40VXJJmZCuw9au4W4DZBfFBXRusCsHj2pYAYUbgmQzUOM2d23pc7CdM3waNUOFfQcWmAwCRUZCi9JayLTiZCFY12vRFZAq6znxuZBjZAnuEqZB8McJj2OlSHzovddGzqp5K9N4HHgQZDZD&pretty=1&limit=25&after=MjQZD"
+    }
+}
